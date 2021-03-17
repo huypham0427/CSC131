@@ -21,7 +21,7 @@ public class WebController {
 		return response;
 	}
 
-	@RequestMapping("/movies/categories")
+	//@RequestMapping("/movies/categories")
 	// ArrayList of Strings
 	// ArrayList of Enum
 	// a class categoryList for category to store values
